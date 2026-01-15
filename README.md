@@ -13,4 +13,4 @@
 
 This will download and extract the course data for you.
 
-3. When you're done, if you want, you can save your work back to your scratchpad repo.
+3. When you're done, save your notebook back to your `scratchpad` repo with today's date.
